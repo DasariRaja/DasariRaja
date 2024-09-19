@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm DASARI Raja</h1>
 <h3 align="center">A passionate UI/UX from India</h3>
+<img width="400" align="right" src="[https://images.app.goo.gl/Xv4T2SJPK6gY8QrM7](https://cdn.dribbble.com/users/1106204/screenshots/7063847/media/dc64a6ac0e324de8aaceec810846fff7.gif)">
 
 - 🔭 I’m currently working on **car website**
 
